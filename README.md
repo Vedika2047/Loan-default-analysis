@@ -63,6 +63,21 @@ The project includes:
 
 ## 🚀 How to Run This Project
 
+1. Install required libraries:
+
+pip install pandas seaborn matplotlib
+
+
+2. Run the script:
+
+python main.py
+
+
+3. Dataset:
+Make sure the dataset is inside the `data/` folder.
+
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Vedika2047/Loan-default-analysis.git
+
+
