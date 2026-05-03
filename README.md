@@ -26,6 +26,10 @@ The dataset typically includes:
 - Region
 - Loan Status (Default / Non-default)
 
+- ## Dataset
+The dataset is stored in compressed format (`.csv.gz`) to reduce size.  
+You can extract it using tools like WinRAR, 7-Zip or Python pandas.
+
 ---
 
 ## 🛠️ Technologies Used
